@@ -1,0 +1,103 @@
+{
+    "men": [
+      {
+        "id": 1,
+        "name": "Shoe 1",
+        "ean": 192502195879,        
+        "price": 19990,
+        "imgName": "j1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shoe 2",
+        "ean": 885259547106, 
+        "price": 699,
+        "imgName": "f2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Shoe 3",
+        "ean": 886551542738, 
+        "price": 1999,
+        "imgName": "c10.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Shoe 4",
+        "ean": 884802417675, 
+        "price": 1999,
+        "imgName": "f1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Shoe 5",
+        "ean":886737982402, 
+        "price": 1399,
+        "imgName": "t9.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Shoe 6",
+        "ean":887231010097, 
+        "price": 1599,
+        "imgName": "t3.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Shoe 4",
+        "ean": 884776351869, 
+        "price": 1999,
+        "imgName": "j11.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Shoe 5",
+        "ean": 883412152433, 
+        "price": 1799,
+        "imgName": "j9.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Shoe 9",
+        "ean": 886668766317, 
+        "price": 1799,
+        "imgName": "v7.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Shoe 10",
+        "ean": 826218689581, 
+        "price": 1899,
+        "imgName": "t6.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Shoe 11",
+        "ean": 191888231065, 
+        "price": 1899,
+        "imgName": "v6.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Shoe 12",
+        "ean": 888410239377, 
+        "price": 1899,
+        "imgName": "t12.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Shoe 13",
+        "ean":888412057399, 
+        "price": 1899,
+        "imgName": "c1.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Shoe 15",
+        "ean":883412152433, 
+        "price": 1899,
+        "imgName": "v10.jpg"
+      }
+      
+    ]
+  }
